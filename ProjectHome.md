@@ -1,0 +1,1 @@
+simple-dm-server is aimed to provide a simple replacement of the SSAP.
